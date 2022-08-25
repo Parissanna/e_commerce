@@ -1,1 +1,1 @@
-# e_commerce
+Une entreprise de vente de prêt à porter en ligne collecte quotidiennement des données opérationnelles : nombre de ventes, notes, etc. À partir de ces données collectées, nous avons pour mission de comprendre le jeu de données, de le nettoyer afin de mettre en place une base de données et de proposer un programme d’intelligence artificielle adapté aux données.
